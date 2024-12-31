@@ -13,6 +13,8 @@ The primary data sources included:
 
 The project was managed using Git and GitHub for version control and teamwork simulation.
 
+![Anomalies by Taxi Companies](images/Chicago_areas.png)
+
 ## Results and Structure
 
 1. **Local Data Pipeline**:

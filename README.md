@@ -14,6 +14,7 @@ The primary data sources included:
 The project was managed using Git and GitHub for version control and teamwork simulation.
 
 ![Anomalies by Taxi Companies](images/Chicago_areas.png)
+###### __(source: https://en.wikipedia.org/wiki/Community_areas_in_Chicago#/media/File:Chicago_community_areas_map.svg)__
 
 ## Results and Structure
 
